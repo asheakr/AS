@@ -1,0 +1,5 @@
+Symlinking /home/ashe/AS-1/devel/share/two_drones_pkg/cmake/two_drones_pkgConfig.cmake
+Symlinking /home/ashe/AS-1/devel/share/two_drones_pkg/cmake/two_drones_pkgConfig-version.cmake
+Symlinking /home/ashe/AS-1/devel/lib/pkgconfig/two_drones_pkg.pc
+Symlinking /home/ashe/AS-1/devel/lib/two_drones_pkg/plots_publisher_node
+Symlinking /home/ashe/AS-1/devel/lib/two_drones_pkg/frames_publisher_node

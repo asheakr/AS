@@ -1,0 +1,1 @@
+/home/ashe/AS-1/devel/./cmake.lock 1
