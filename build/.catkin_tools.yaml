@@ -1,6 +1,6 @@
-devel_space: /home/ashe/as_ws/devel
+devel_space: /home/ashe/AS-1/devel
 install: false
-install_space: /home/ashe/as_ws/install
+install_space: /home/ashe/AS-1/install
 profile: default
-source_space: /home/ashe/as_ws/src
-workspace: /home/ashe/as_ws
+source_space: /home/ashe/AS-1/src
+workspace: /home/ashe/AS-1

@@ -1,1 +1,1 @@
-/home/ashe/as_ws/devel/.private/catkin_tools_prebuild/setup.sh
+/home/ashe/AS-1/devel/.private/catkin_tools_prebuild/setup.sh
