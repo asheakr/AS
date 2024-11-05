@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20241105-2307-Experimental"
+	Name="ashe"
+	Generator="ctest-3.16.3"
+	CompilerName="/usr/bin/aarch64-linux-gnu-g++"
+	CompilerVersion="9.4.0"
+	OSName="Linux"
+	Hostname="ashe"
+	OSRelease="5.4.0-200-generic"
+	OSVersion="#220-Ubuntu SMP Fri Sep 27 13:21:29 UTC 2024"
+	OSPlatform="aarch64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="8"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="10"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="4095"
+	TotalPhysicalMemory="7936"
+	LogicalProcessorsPerPhysical="10"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Nov 05 23:07 UTC</StartDateTime>
+		<StartTestTime>1730848069</StartTestTime>
+		<TestList/>
+		<EndDateTime>Nov 05 23:07 UTC</EndDateTime>
+		<EndTestTime>1730848069</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
